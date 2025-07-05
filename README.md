@@ -36,3 +36,11 @@ npm run dev
 - ⛔ Form state is not connected — form fields are static except image preview.
 - 🌐 The timezone dropdown has hardcoded values; real-time location/timezone detection not implemented.
 - 📱 Mobile responsiveness not fully tested.
+
+---
+
+## Deployement
+Deployed on Vercel
+```bash
+https://setting-page-theta.vercel.app/
+```
